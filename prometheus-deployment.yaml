@@ -1,0 +1,36 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: prometheus-deployment
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: prometheus-server
+    spec:
+      containers:
+        - name: prometheus
+          image: prom/prometheus:latest
+          args:
+            - "-config.file=/etc/prometheus/conf/prometheus.yml"
+            # Metrics are stored in an emptyDir volume which
+            # exists as long as the Pod is running on that Node.
+            # The data in an emptyDir volume is safe across container crashes.
+            - "-storage.local.path=/prometheus/"
+          ports:
+            - containerPort: 9090
+          volumeMounts:
+            - name: prometheus-config-volume
+              mountPath: /etc/prometheus/conf/
+            - name: prometheus-storage-volume
+              mountPath: /prometheus/
+      volumes:
+        - name: prometheus-config-volume
+          configMap:
+            name: prometheus-server-conf
+            items:
+              - key: config
+                path:  prometheus.yml
+        - name: prometheus-storage-volume
+          emptyDir: {} # containers in the Pod can all read and write the same files here.

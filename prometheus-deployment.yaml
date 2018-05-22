@@ -12,7 +12,7 @@ spec:
     spec:
       containers:
         - name: prometheus
-          image: prom/prometheus:v2.2.0
+          image: prom/prometheus:v2.2.1
           args:
             - "--config.file=/etc/prometheus/prometheus.yml"
             - "--storage.tsdb.path=/prometheus/"

@@ -1,4 +1,6 @@
-#
+## Nginx Ingress
+## Follow https://devopscube.com/setup-ingress-kubernetes-nginx-controller/
+
 apiVersion: extensions/v1beta1
 kind: Ingress
 metadata:

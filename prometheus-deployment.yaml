@@ -1,10 +1,15 @@
-apiVersion: extensions/v1beta1
+apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: prometheus-deployment
   namespace: monitoring
+  labels:
+    app: prometheus-server
 spec:
   replicas: 1
+  selector:
+    matchLabels:
+      app: prometheus-server
   template:
     metadata:
       labels:
@@ -12,7 +17,7 @@ spec:
     spec:
       containers:
         - name: prometheus
-          image: prom/prometheus:v2.12.0
+          image: prom/prometheus
           args:
             - "--config.file=/etc/prometheus/prometheus.yml"
             - "--storage.tsdb.path=/prometheus/"

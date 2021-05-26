@@ -8,7 +8,7 @@ Idea of this repo to understand all the components involved in prometheus setup.
 
 # Other Manifest repos
 
-Kube State metrics manifests: https://github.com/bibinwilson/kube-state-metrics
+Kube State metrics manifests: https://github.com/devopscube/kube-state-metrics-configs
 
 Alert manager Manifests: https://github.com/bibinwilson/kubernetes-alert-manager
 

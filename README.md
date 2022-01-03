@@ -6,7 +6,7 @@ You can find the full tutorial from here https://devopscube.com/setup-prometheus
 
 ## CKA, CKAD or CKS Voucher Codes
 
-**Note:** If you are preparing for CKA, CKAD or CKS exam, save 35% using code **XMAS21** at https://kube.promo/latest. Valid for a limited time.
+If you are preparing for CKA, CKAD, CKS or KCNA exam, save 35% using code SCOFFER15 at https://kube.promo/latest. Valid for a limited time.
 
 Idea of this repo to understand all the components involved in prometheus setup.
 

@@ -4,9 +4,9 @@ Complete prometheus monitoring stack setup on Kubernetes.
 
 You can find the full tutorial from here https://devopscube.com/setup-prometheus-monitoring-on-kubernetes/
 
-## CKA, CKAD or CKS Voucher Codes
+## CKA, CKAD, CKS or KCNA Voucher Codes
 
-If you are preparing for CKA, CKAD, CKS or KCNA exam, save 35% using code SCOFFER15 at https://kube.promo/latest. Valid for a limited time.
+If you are preparing for CKA, CKAD, CKS or KCNA exam, save $57 using code **SCOFFER15** at https://kube.promo/latest. Valid for a limited time.
 
 Idea of this repo to understand all the components involved in prometheus setup.
 

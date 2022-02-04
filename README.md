@@ -6,10 +6,9 @@ Idea of this repo to understand all the components involved in prometheus setup.
 
 You can find the full tutorial from here https://devopscube.com/setup-prometheus-monitoring-on-kubernetes/
 
-## CKA, CKAD, CKS or KCNA Voucher Codes
+## 🚀 CKA, CKAD, CKS or KCNA Voucher Codes
 
-🚀 If you are preparing for CKA, CKAD, CKS or KCNA exam, save 25% (up to $143) using code CNYDEVOPS22 at https://kube.promo/cny Valid for a limited time.
-
+If you are preparing for CKA, CKAD, CKS or KCNA exam, save $57 using code DCUBEOFFER at https://kube.promo/latest. Valid for a limited time.
 # Other Manifest repos
 
 Kube State metrics manifests: https://github.com/devopscube/kube-state-metrics-configs

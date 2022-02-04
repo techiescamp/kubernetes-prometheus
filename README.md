@@ -8,8 +8,9 @@ You can find the full tutorial from here https://devopscube.com/setup-prometheus
 
 ## 🚀 CKA, CKAD, CKS or KCNA Voucher Codes
 
-If you are preparing for CKA, CKAD, CKS or KCNA exam, save $57 using code DCUBEOFFER at https://kube.promo/latest. Valid for a limited time.
-# Other Manifest repos
+If you are preparing for CKA, CKAD, CKS or KCNA exam, **save $57** using code **DCUBEOFFER** at https://kube.promo/latest. Valid for a limited time.
+
+## ✍️ Other Manifest repos
 
 Kube State metrics manifests: https://github.com/devopscube/kube-state-metrics-configs
 

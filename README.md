@@ -8,7 +8,7 @@ You can find the full tutorial from here https://devopscube.com/setup-prometheus
 
 ## 🚀 CKA, CKAD, CKS or KCNA Voucher Codes
 
-If you are preparing for CKA, CKAD, CKS or KCNA exam, get 22% discount today using code DCPAT22 at https://kube.promo/latest. It is a limited time offer
+If you are preparing for CKA, CKAD, CKS or KCNA exam, get 22% discount today using code **DCPAT22** at https://kube.promo/latest. It is a limited time offer
 
 ## ✍️ Other Manifest repos
 

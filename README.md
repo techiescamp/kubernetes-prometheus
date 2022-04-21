@@ -4,11 +4,11 @@ Complete prometheus monitoring stack setup on Kubernetes.
 
 Idea of this repo to understand all the components involved in prometheus setup.
 
-You can find the full tutorial from here https://devopscube.com/setup-prometheus-monitoring-on-kubernetes/
+You can find the full tutorial from here--> [Kubernetes Monitoting setup Using Prometheus](https://devopscube.com/setup-prometheus-monitoring-on-kubernetes/)
 
 ## 🚀 CKA, CKAD, CKS or KCNA Voucher Codes
 
-If you are preparing for CKA, CKAD, CKS or KCNA exam, **get 40% discount** today using code **SPRING40** at https://kube.promo/spring. It is a limited time Spring sale offer
+If you are preparing for CKA, CKAD, CKS or KCNA exam, **get $57 discount** today using code **DCUBEOFFER** at https://kube.promo/latest. It is a limited time offer
 
 ## ✍️ Other Manifest repos
 

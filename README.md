@@ -8,8 +8,7 @@ You can find the full tutorial from here--> [Kubernetes Monitoting setup Using P
 
 ## 🚀 CKA, CKAD, CKS or KCNA Voucher Codes
 
-If you are preparing for CKA, CKAD, CKS or KCNA exam, **get 30% discount** today using code **LEVELUP30** at https://kube.promo/latest. It is a limited
-
+If you are preparing for CKA, CKAD, CKS or KCNA exam, **get 15% discount** today using code **DCUBEOFFER** at https://kube.promo/latest. It is a limited time offer
 ## ✍️ Other Manifest repos
 
 Kube State metrics manifests: https://github.com/devopscube/kube-state-metrics-configs

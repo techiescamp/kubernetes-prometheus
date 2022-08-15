@@ -104,7 +104,7 @@ data:
       
       - job_name: 'kube-state-metrics'
         static_configs:
-          - targets: ['kube-state-metrics.kube-system.svc.cluster.local:8080']
+          - targets: ['prometheus-service:8080']
 
       - job_name: 'kubernetes-cadvisor'
 
@@ -157,3 +157,8 @@ data:
         - source_labels: [__meta_kubernetes_service_name]
           action: replace
           target_label: kubernetes_name
+            
+        
+      - job_name: 'My Ubuntu server metrics'
+        static_configs:
+          - targets: ['ubuntu.tehd.ir:9100']

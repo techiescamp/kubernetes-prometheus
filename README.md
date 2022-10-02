@@ -8,7 +8,7 @@ You can find the full tutorial from here--> [Kubernetes Monitoting setup Using P
 
 ## 🚀 PCA, CKA, CKAD, CKS or KCNA Voucher Codes/Updates
 
-- If you are preparing for PCA, CKA, CKAD, CKS, or KCNA exam, **save $60 today using code **DCUBEOFFER** at https://kube.promo/latest. It is a limited-time offer. Or Check out [Linux Foundation coupon]
+If you are preparing for PCA, CKA, CKAD, CKS, or KCNA exam, save $60 today using code **DCUBEOFFER** at https://kube.promo/latest. It is a limited-time offer. Or Check out [Linux Foundation coupon]
 
 ## ✍️ Other Manifest repos
 

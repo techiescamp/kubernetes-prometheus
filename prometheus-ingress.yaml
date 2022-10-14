@@ -1,7 +1,7 @@
 ## Nginx Ingress
 ## Follow https://devopscube.com/setup-ingress-kubernetes-nginx-controller/
 
-apiVersion: extensions/v1beta1
+apiVersion: networking.k8s.io/v1
 kind: Ingress
 metadata:
   name: prometheus-ui
@@ -15,8 +15,12 @@ spec:
     http:
       paths:
       - backend:
-          serviceName: prometheus-service
-          servicePort: 8080
+          service:
+            name: prometheus-service
+            port:
+              number: 8080
+        path: /
+        pathType: Prefix
   tls:
   - hosts: 
     - prometheus.apps.shaker242.lab

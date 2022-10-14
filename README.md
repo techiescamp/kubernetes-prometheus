@@ -6,9 +6,9 @@ Idea of this repo to understand all the components involved in prometheus setup.
 
 You can find the full tutorial from here--> [Kubernetes Monitoting setup Using Prometheus](https://devopscube.com/setup-prometheus-monitoring-on-kubernetes/)
 
-## 🚀 PCA, CKA, CKAD, CKS or KCNA Voucher Codes/Updates
+## 🚀 Prometheus Certification (PCA) Voucher Codes/Updates
 
-If you are preparing for CKA, CKAD, CKS, or KCNA exam, **save 35%** today using code **FEST35** at https://kube.promo/latest. It is a limited-time offer. Or Check out [Linux Foundation coupon](https://scriptcrunch.com/linux-foundation-coupon/) page for the latest voucher codes.
+If you are preparing for Prometheus Certification, CKA, CKAD, CKS, or KCNA exam, **save 35%** today using code **FEST35** at https://kube.promo/latest. It is a limited-time offer. Or Check out [Linux Foundation coupon](https://scriptcrunch.com/linux-foundation-coupon/) page for the latest voucher codes.
 
 ## ✍️ Other Manifest repos
 

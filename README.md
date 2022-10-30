@@ -8,7 +8,7 @@ You can find the full tutorial from here--> [Kubernetes Monitoting setup Using P
 
 ## 🚀 Prometheus Certification (PCA) Voucher Codes/Updates
 
-If you are preparing for Prometheus Certification, CKA, CKAD, CKS, or KCNA exam, **save 35%** today using code **FEST35** at https://kube.promo/latest. It is a limited-time offer. Or Check out [Linux Foundation coupon](https://scriptcrunch.com/linux-foundation-coupon/) page for the latest voucher codes.
+If you are preparing for PCA, CKA, CKAD, CKS, or KCNA exam, get $60 discount today using code **SCOFFER15** at https://kube.promo/latest. It is a limited-time offer. Or Check out [Linux Foundation coupon](https://scriptcrunch.com/linux-foundation-coupon/) page for the latest voucher codes.
 
 ## ✍️ Other Manifest repos
 

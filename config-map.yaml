@@ -104,7 +104,7 @@ data:
       
       - job_name: 'kube-state-metrics'
         static_configs:
-          - targets: ['kube-state-metrics.kube-system.svc.cluster.local:8080']
+          - targets: ['prometheus-service:8080']
 
       - job_name: 'kubernetes-cadvisor'
 

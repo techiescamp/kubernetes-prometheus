@@ -8,8 +8,9 @@ You can find the full tutorial from here--> [Kubernetes Monitoring setup Using P
 
 ## 🚀 CKA, CKAD, CKS, KCNA & PCA Coupon Codes
 
-- 🚀  PCA, CKA, CKAD, CKS, or KCNA exam aspirants can **save 65%** today using code **CYBER23CC** at https://kube.promo/cyber. It is a limited-time offer from the Linux Foundation.
-- For the best savings, opt for the CKA + CKS bundle. Use code **CYBER23CC** at https://kube.promo/bundle
+- 🚀  PCA, CKA, CKAD, CKS, or KCNA exam aspirants can **save 50%** today using code **CYBER23COM** at https://kube.promo/devops. It is a limited-time offer from the Linux Foundation.
+
+- For the best savings, opt for the CKA + CKS bundle. Use code **DCUBE20** at https://kube.promo/bundle
 
 🎁 You will also get a free gift with every purchase.
 
